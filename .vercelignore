@@ -1,0 +1,6 @@
+.git
+node_modules
+.npm-cache
+.openai
+.env*
+*.zip

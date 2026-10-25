@@ -1,6 +1,9 @@
 node_modules/
 dist/
+*.tar.gz
 .npm-cache/
 .vercel/
-.env*
+.env
+.env.*
+!.env.example
 *.log
